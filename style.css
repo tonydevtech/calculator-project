@@ -72,6 +72,7 @@ button {
     background: #444;
     color: white;
     transition: 0.2s;
+    padding: 10px 5px;
 }
 button:hover {
     background: #666;
